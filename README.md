@@ -37,6 +37,7 @@ src="https://img.shields.io/github/followers/Alpha3625?logo=github&style=for-the
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 ![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)
+![Static Badge](https://img.shields.io/badge/:badgeContent)
 </div>  
 <br/>  
 
