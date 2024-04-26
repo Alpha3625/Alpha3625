@@ -1,4 +1,5 @@
-<div align="center">
+<div style="background-color: black;">
+  <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" align="center" style="width: 100%; height: 350px" />
 </div>
 
@@ -74,3 +75,4 @@ src="https://img.shields.io/github/followers/Alpha3625?logo=github&style=for-the
 
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+</div>
