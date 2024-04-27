@@ -38,6 +38,8 @@ src="https://img.shields.io/github/followers/Alpha3625?logo=github&style=for-the
   <a href="https://t.me/Anbu5656" target="_blank">
     <img src="https://img.shields.io/badge/-Anbu5656-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/Anbu5656" height="25" alt="telegram logo"  />
   </a>
+
+  ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 </div>
 <br/>  
 
