@@ -1,5 +1,5 @@
   <div align="center">
-<img src="" align="center" style="width: 100%; height: 350px" />
+<img src="https://github.com/Alpha3625/Alpha3625/blob/main/assets/Coding_Vibe.gif" align="center" style="width: 100%; height: 350px" />
 </div>
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Artyom
@@ -28,29 +28,18 @@ src="https://img.shields.io/github/followers/Alpha3625?logo=github&style=for-the
 
 ## Connect with me  
 <div align="center">
-<!-- <a href="https://github.com/Alpha3625" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/ambartsumyan-artyom" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a> -->
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 ![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)
 </div>
 <div align="center">
-  <a href="https://www.linkedin.com/in/gev-ogan/" target="_blank">
-    <img src="https://img.shields.io/badge/-Gevorg-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/gev-ogan/" height="25" alt="youtube logo"  />
+  <a href="https://www.linkedin.com/in/ambartsumyan-artyom/" target="_blank">
+    <img src="https://img.shields.io/badge/-ambartsumyan-artyom-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/gev-ogan/" height="25" alt="youtube logo"  />
   </a>
-  <a href="https://t.me/gev_ogan" target="_blank">
-    <img src="https://img.shields.io/badge/-gev_ogan-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/gev_ogan" height="25" alt="telegram logo"  />
+  <a href="https://t.me/Anbu5656" target="_blank">
+    <img src="https://img.shields.io/badge/-Anbu5656-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/Anbu5656" height="25" alt="telegram logo"  />
   </a>
 </div>
 <br/>  
-
-<a href="https://linkedin.com/in/ambartsumyan-artyom" target="_blank">
-  ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-</a>
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Alpha3625&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
