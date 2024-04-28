@@ -8,8 +8,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Welcome to my GitHub profile
 ----------------------------
 
-...
-
 * 🖥️  See my portfolio at [https://alpha3625.github.io/portfolio/](http://alpha3625.github.io/portfolio/)
 * ✉️  You can contact me at [work.email7997@gmail.com](mailto:work.email7997@gmail.com)
 * 🚀  I'm currently working on [online store Sultan](http://EMPTY)
@@ -30,6 +28,7 @@ src="https://img.shields.io/github/followers/Alpha3625?logo=github&style=for-the
   <a href="https://www.linkedin.com/in/ambartsumyan-artyom/" target="_blank">
     ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
   </a>
+   ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
   <a href="https://t.me/Anbu5656" target="_blank">
     ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
   </a>
