@@ -28,7 +28,7 @@ src="https://img.shields.io/github/followers/Alpha3625?logo=github&style=for-the
 
 <div align="center" style="display: flex">
   <a href="https://www.linkedin.com/in/ambartsumyan-artyom/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://www.linkedin.com/in/ambartsumyan-artyom/" height="25" alt="LinkedIn logo"
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/ambartsumyan-artyom/" height="25" alt="LinkedIn logo"
   </a>
   <a href="https://t.me/Anbu5656" target="_blank">
     <img src="https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/Anbu5656" height="25" alt="Telegram logo"
