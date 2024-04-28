@@ -23,20 +23,16 @@ src="https://img.shields.io/github/followers/Alpha3625?logo=github&style=for-the
 </p>
 
 <br/>  
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+
 ## Connect with me  
 <div align="center">
-  ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-</div>
-<br/>  
-
-  <a href="https://www.linkedin.com/in/ambartsumyan-artyom/" target="_blank">
+    <a href="https://www.linkedin.com/in/ambartsumyan-artyom/" target="_blank">
     ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
   </a>
    ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-  <a href="https://t.me/Anbu5656" target="_blank">
-    ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
-  </a>
+  <a href="https://t.me/Anbu5656" target="_blank" ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)></a>
+</div>
+<br/>  
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Alpha3625&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
