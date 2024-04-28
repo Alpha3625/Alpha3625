@@ -27,22 +27,10 @@ src="https://img.shields.io/github/followers/Alpha3625?logo=github&style=for-the
 ## Connect with me  
 
 <div align="center">
-  
-  ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
-
-
-  ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-
-
-  <a href="https://www.linkedin.com/in/ambartsumyan-artyom/" target="_blank">
-    
-    ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-    
-  </a>
+  <a href="https://www.linkedin.com/in/ambartsumyan-artyom/" target="_blank"></a>
   <a href="https://t.me/Anbu5656" target="_blank">
-    
-    ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
-    
+    <img src="https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/Anbu5656" height="25" alt="telegram logo"
+"/>
   </a>
 </div>
 <br/>  
