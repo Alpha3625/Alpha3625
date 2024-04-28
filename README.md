@@ -2,7 +2,7 @@
 <img src="https://github.com/Alpha3625/Alpha3625/blob/main/assets/Coding_Vibe.gif" align="center" style="width: 100%; height: 350px" />
 </div>
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Artyom
+Hi 👋 My name is Artyom!
 ==============================================================================================================================
 
 Welcome to my GitHub profile
@@ -11,7 +11,7 @@ Welcome to my GitHub profile
 * 🖥️  See my portfolio at [https://alpha3625.github.io/portfolio/](http://alpha3625.github.io/portfolio/)
 * ✉️  You can contact me at [work.email7997@gmail.com](mailto:work.email7997@gmail.com)
 * 🚀  I'm currently working on [online store Sultan](http://EMPTY)
-* 🧠  I'm learning TypeScript, React, Redux, Webpack
+* 🧠  I'm learning TypeScript, React, Redux, Webpack, Docker
 
 <a href="https://www.github.com/Alpha3625" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Alpha3625?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
@@ -35,7 +35,9 @@ src="https://img.shields.io/github/followers/Alpha3625?logo=github&style=for-the
 "/>
   </a>
 </div>
-<br/>  
+<br/>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Alpha3625&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Alpha3625&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
