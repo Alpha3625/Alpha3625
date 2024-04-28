@@ -10,7 +10,6 @@ Welcome to my GitHub profile
 
 ...
 
-* 🌍  I'm based in Russia, Sochi
 * 🖥️  See my portfolio at [https://alpha3625.github.io/portfolio/](http://alpha3625.github.io/portfolio/)
 * ✉️  You can contact me at [work.email7997@gmail.com](mailto:work.email7997@gmail.com)
 * 🚀  I'm currently working on [online store Sultan](http://EMPTY)
@@ -28,18 +27,12 @@ src="https://img.shields.io/github/followers/Alpha3625?logo=github&style=for-the
 
 ## Connect with me  
 <div align="center">
-![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
-![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)
-</div>
-<div align="center">
   <a href="https://www.linkedin.com/in/ambartsumyan-artyom/" target="_blank">
-    <img src="https://img.shields.io/badge/-ambartsumyan-artyom-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/gev-ogan/" height="25" alt="youtube logo"  />
+    ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
   </a>
   <a href="https://t.me/Anbu5656" target="_blank">
-    <img src="https://img.shields.io/badge/-Anbu5656-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/Anbu5656" height="25" alt="telegram logo"  />
+    ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
   </a>
-
-  ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 </div>
 <br/>  
 
