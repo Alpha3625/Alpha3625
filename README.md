@@ -26,19 +26,24 @@ src="https://img.shields.io/github/followers/Alpha3625?logo=github&style=for-the
 
 ## Connect with me  
 
-
-![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
-
-
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-
-
 <div align="center">
-    <a href="https://www.linkedin.com/in/ambartsumyan-artyom/" target="_blank">
+  
+  ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+
+
+  ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+
+
+  <a href="https://www.linkedin.com/in/ambartsumyan-artyom/" target="_blank">
+    
     ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+    
   </a>
-   ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-  <a href="https://t.me/Anbu5656" target="_blank" ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)></a>
+  <a href="https://t.me/Anbu5656" target="_blank">
+    
+    ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+    
+  </a>
 </div>
 <br/>  
 
@@ -68,6 +73,3 @@ src="https://img.shields.io/github/followers/Alpha3625?logo=github&style=for-the
                 />
             </a></div>
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
