@@ -10,7 +10,6 @@ Welcome to my GitHub profile
 
 * 🖥️  See my portfolio at [https://alpha3625.github.io/portfolio/](http://alpha3625.github.io/portfolio/)
 * ✉️  You can contact me at [work.email7997@gmail.com](mailto:work.email7997@gmail.com)
-* 🚀  I'm currently working on [online store Sultan](http://EMPTY)
 * 🧠  I'm learning TypeScript, React, Redux, Webpack, Docker
 
 <a href="https://www.github.com/Alpha3625" target="_blank" rel="noreferrer"><img
