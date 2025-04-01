@@ -2,7 +2,7 @@
 <img src="https://github.com/Alpha3625/Alpha3625/blob/main/assets/Coding_Vibe.gif" align="center" style="width: 100%; height: 350px" />
 </div>
 
-Hi 👋 My name is Artyom!
+Hi, I'm Artyom 👋
 ==============================================================================================================================
 
 Welcome to my GitHub profile
