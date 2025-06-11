@@ -24,19 +24,6 @@ src="https://img.shields.io/github/followers/Alpha3625?logo=github&style=for-the
 
 <br/>  
 
-## Connect with me  
-
-<div align="center" style="display: flex">
-  <a href="https://www.linkedin.com/in/ambartsumyan-artyom/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/ambartsumyan-artyom/" height="25" alt="LinkedIn logo"
-  </a>
-  <a href="https://t.me/Anbu5656" target="_blank">
-    <img src="https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/Anbu5656" height="25" alt="Telegram logo"
-"/>
-  </a>
-</div>
-<br/>
-
 ## Github Stats  
 <div style="display: flex">
   <img src="https://github-readme-stats.vercel.app/api?username=Alpha3625&show_icons=true&count_private=true&hide_border=true" align="center" />
