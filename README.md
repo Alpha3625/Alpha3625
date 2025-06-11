@@ -9,7 +9,8 @@ Welcome to my GitHub profile
 ----------------------------
 
 ### Contacts
-email: [work.email7997@gmail.com](mailto:work.email7997@gmail.com "work.email7997@gmail.com")  
+email: [work.email7997@gmail.com](mailto:work.email7997@gmail.com "work.email7997@gmail.com") 
+telegram: [@Anbu5656](https://t.me/Anbu5656 "@Anbu5656")  
 * 🧠  I'm learning TypeScript, React, Redux, Webpack, Docker
 
 <a href="https://www.github.com/Alpha3625" target="_blank" rel="noreferrer"><img
