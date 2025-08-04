@@ -34,7 +34,8 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
--  <span style="font-size=20px"> I am a frontend developer specializing in React JS, I focus on creating smooth user experiences and maintainable codebases. I believe in writing clean, reusable components and working closely with teams to deliver value-driven solutions.</span>
+-  <span style="font-size=20px">I’m a frontend developer who enjoys creating simple and user-friendly web applications. I love React and modern tools, experiment with design and animations, learn from real projects, and share my code here on GitHub.</span>
+
 - ### :hammer_and_wrench: Languages and Tools :
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
