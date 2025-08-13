@@ -81,7 +81,11 @@
 <div style="display: flex">
   <img src="https://github-readme-stats.vercel.app/api?username=Alpha3625&show_icons=true&count_private=true&hide_border=true" align="center" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alpha3625&hide_border=true&layout=compact" align="left" />  
-</div>  
+</div>
+
+<br/>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Alpha3625&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br/>
 
